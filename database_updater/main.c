@@ -14,7 +14,7 @@
 void menu() {
 	psvDebugScreenClear(COLOR_BLACK);
 	psvDebugScreenSetFgColor(COLOR_WHITE);
-	printf("Database Updater by KanadeEngel\n\n");
+	printf("Database Updater by Chihir0_\nhttps://twitter.com/Chihir0_\n\n");
 	psvDebugScreenSetFgColor(COLOR_RED);
 	printf("WARNING! Rebuilding Database will NOT keep icon layout!\n\n");
 	psvDebugScreenSetFgColor(COLOR_WHITE);
